@@ -20,7 +20,8 @@ La usuaria (Daniela) no es técnica: explícale todo en español, claro y paso a
 4. Antes de cualquier publicación real corre una validación: `DRY_RUN=1` (o el workflow con `dry_run=1`). Verifica que cada imagen sea pública y JPEG.
 5. No re-publiques lo que ya está en `state/published.json`.
 6. Tono de las descripciones: cercano, claro, en español de Colombia, sin exagerar. No prometas funciones que no existen: hoy Collecta **no guarda ni mueve dinero** (cada quien paga por su banco y quien recibe confirma) y el **escáner de recibos aún no está activo** (siempre «muy pronto», nunca «con IA»).
-7. Hashtags: pocos (4–8), relevantes. Se agregan al final de la descripción al publicar.
+7. **Gratis vs premium** (según el pitch deck): la versión beta gratuita incluye grupos, 4 formas de dividir (iguales, montos exactos, por ítem con propina, por noches), registro y confirmación de pagos y captura manual con foto del comprobante. Son **premium**: metas de ahorro, gastos automáticos, préstamos en cuotas y escáner con IA. Distinción discreta; no pongas precios en las publicaciones. Para lo premium el llamado es «escríbenos para activarla».
+8. Hashtags: pocos (4–8), relevantes. Se agregan al final de la descripción al publicar.
 
 ## Tareas habituales
 - **Configurar por primera vez**: comprobar con `gh` que el repo sea público y que existan los secretos (`gh secret list`); lanzar el workflow «Publicar en Instagram» con `dry_run=1` (`gh workflow run publish.yml -f dry_run=1`) y leer el resultado (`gh run watch` / `gh run view --log`). Explicar cualquier error en palabras simples.
