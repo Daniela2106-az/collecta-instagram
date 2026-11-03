@@ -1,0 +1,392 @@
+[
+  {
+    "id": "P01",
+    "type": "post",
+    "title": "Presentación de marca",
+    "files": [
+      "presentacion-marca"
+    ],
+    "when": "2026-11-04T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Hola, somos Collecta: finanzas compartidas, cuentas claras. Se acabaron los chats eternos para saber quién debe qué.\n👉 Síguenos para enterarte primero.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P02",
+    "type": "post",
+    "title": "Presentación",
+    "files": [
+      "Main"
+    ],
+    "when": "2026-11-06T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Cada quien paga lo suyo y todos ven lo mismo. Así de simple deberían ser las cuentas en grupo.\n👉 Síguenos y ve cómo funciona.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P03",
+    "type": "carousel",
+    "title": "Los dolores de cabeza",
+    "files": [
+      "carrusel-1-portada",
+      "carrusel-2-quien-pago",
+      "carrusel-3-cuentas-a-mano",
+      "carrusel-4-quien-debe",
+      "carrusel-5-ya-pagaron",
+      "carrusel-6-cierre"
+    ],
+    "when": "2026-11-09T19:00:00-05:00",
+    "status": "needs_review",
+    "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 3 y 6).",
+    "caption": "Los planes en grupo no se dañan por el plan, sino por las cuentas. Alguien paga, alguien olvida y nadie sabe cuánto es.\n👉 Guarda este post y mándaselo al que siempre pone la plata.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P04",
+    "type": "carousel",
+    "title": "Quiénes somos · Qué hacemos · Cómo funciona · Síguenos",
+    "files": [
+      "quienes-somos",
+      "que-hacemos",
+      "como-funciona",
+      "convocatoria"
+    ],
+    "when": "2026-11-11T19:00:00-05:00",
+    "status": "needs_review",
+    "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 2 y 3).",
+    "caption": "Collecta lleva las cuentas del grupo para que ustedes solo se preocupen del plan. Cada gasto queda claro desde el primer día.\n👉 Síguenos para no perderte lo que viene.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P05",
+    "type": "carousel",
+    "title": "Formas de dividir",
+    "files": [
+      "div-1",
+      "div-2",
+      "div-3",
+      "div-4",
+      "div-5"
+    ],
+    "when": "2026-11-13T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Partes iguales, cada quien lo suyo o por porcentaje: tú eliges cómo se divide cada gasto. Justo para todos, sin discusiones.\n👉 Cuéntanos cuál usas tú en los comentarios.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P06",
+    "type": "carousel",
+    "title": "Gastos automáticos",
+    "files": [
+      "aut-1",
+      "aut-2",
+      "aut-3",
+      "aut-4"
+    ],
+    "when": "2026-11-16T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Arriendo, servicios, mesada: prográmalo una sola vez y el gasto nace repartido cada mes. Cero recordatorios manuales.\n👉 Compártelo con tu parcero de apartamento.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P07",
+    "type": "carousel",
+    "title": "Metas de ahorro",
+    "files": [
+      "met-1",
+      "met-2",
+      "met-3",
+      "met-4"
+    ],
+    "when": "2026-11-18T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Una meta clara junta al grupo: ponle nombre y monto, y mira cuánto aporta cada quien. Ahorrar entre varios sí se logra.\n👉 Etiqueta a con quién ahorrarías para tu próximo viaje.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P08",
+    "type": "carousel",
+    "title": "Pagos y confirmación",
+    "files": [
+      "pag-1",
+      "pag-2",
+      "pag-3",
+      "pag-4"
+    ],
+    "when": "2026-11-20T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Collecta no mueve tu plata: cada quien paga por su banco y quien recibe confirma. Así todo queda claro y registrado.\n👉 Guárdalo para cuando te pregunten cómo funciona.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P09",
+    "type": "carousel",
+    "title": "Escáner de recibos (muy pronto)",
+    "files": [
+      "esc-1",
+      "esc-2",
+      "esc-3",
+      "esc-4",
+      "esc-5",
+      "esc-6"
+    ],
+    "when": "2026-11-23T19:00:00-05:00",
+    "status": "needs_review",
+    "review": "Confirmar que el escáner sigue «muy pronto» antes de publicar (hoy está apagado en la app).",
+    "caption": "Muy pronto: sube la foto de la cuenta y llena los gastos más rápido. Estamos trabajándolo para ustedes.\n👉 Síguenos para ser los primeros en probarlo.",
+    "hashtags": [
+      "#Collecta",
+      "#EscanerDeRecibos",
+      "#GastosCompartidos",
+      "#CuentasClaras",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P10",
+    "type": "post",
+    "title": "Antes y con Collecta",
+    "files": [
+      "antes-despues"
+    ],
+    "when": "2026-11-25T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Antes: chats eternos y cuentas en la cabeza. Con Collecta: todo claro en un solo lugar.\n👉 Etiqueta al que más se enreda con las cuentas.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P11",
+    "type": "post",
+    "title": "No todos consumen igual",
+    "files": [
+      "partes-desiguales"
+    ],
+    "when": "2026-11-27T19:00:00-05:00",
+    "status": "draft",
+    "caption": "No todos consumen igual, y dividir en partes iguales no siempre es justo. Con Collecta cada quien paga lo que le toca.\n👉 Dinos en comentarios: ¿te ha pasado?",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P12",
+    "type": "post",
+    "title": "Las cuentas claras",
+    "files": [
+      "refran"
+    ],
+    "when": "2026-11-30T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Cuentas claras, amistades largas. Lo dice el refrán y lo hacemos app.\n👉 Compártelo con tu grupo de amigos.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P13",
+    "type": "post",
+    "title": "Encuesta",
+    "files": [
+      "encuesta"
+    ],
+    "when": "2026-12-02T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Pregunta de grupo: ¿quién suele poner la plata primero en tus planes? Queremos saber cómo lo viven ustedes.\n👉 Responde en los comentarios.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P14",
+    "type": "post",
+    "title": "Lista del viaje",
+    "files": [
+      "lista-viaje"
+    ],
+    "when": "2026-12-04T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Hacer la lista del viaje es fácil; saber quién pagó qué, no tanto. Mantén los gastos del plan en un solo lugar.\n👉 Guárdalo para tu próximo viaje.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P15",
+    "type": "post",
+    "title": "Lo que no hacemos",
+    "files": [
+      "lo-que-no-hacemos"
+    ],
+    "when": "2026-12-07T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Collecta no guarda tu plata ni mueve dinero entre cuentas. Solo lleva las cuentas claras para que cada quien pague por su banco.\n👉 Síguenos para conocer más.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P16",
+    "type": "post",
+    "title": "Así se ve un viaje",
+    "files": [
+      "asi-se-ve-un-viaje"
+    ],
+    "when": "2026-12-09T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Así se ve un viaje con las cuentas al día: cada gasto, cada aporte y cada saldo a la vista de todos.\n👉 Compártelo con tu próximo plan.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "S1",
+    "type": "story",
+    "title": "Story presentación",
+    "files": [
+      "story-presentacion"
+    ],
+    "when": "2026-11-04T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Hola, somos Collecta. Finanzas compartidas, cuentas claras.\n👉 Síguenos.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "S2",
+    "type": "story",
+    "title": "Story escáner",
+    "files": [
+      "story-escaner"
+    ],
+    "when": "2026-11-23T12:00:00-05:00",
+    "status": "needs_review",
+    "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar.",
+    "caption": "Muy pronto: el escáner de recibos. Estamos preparándolo.\n👉 Síguenos para probarlo primero.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "S3",
+    "type": "story",
+    "title": "Story confianza",
+    "files": [
+      "story-no-hacemos"
+    ],
+    "when": "2026-11-11T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Tu plata siempre pasa por tu banco. Collecta solo lleva las cuentas.\n👉 Síguenos.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "S4",
+    "type": "story",
+    "title": "Story síguenos",
+    "files": [
+      "story-sigue"
+    ],
+    "when": "2026-11-06T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Finanzas compartidas, cuentas claras.\n👉 Síguenos para no perderte nada.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  }
+]

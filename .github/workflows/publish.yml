@@ -1,0 +1,37 @@
+name: Publicar en Instagram
+on:
+  schedule:
+    - cron: '*/15 * * * *'      # cada 15 min revisa si hay algo vencido (GitHub puede tardar unos minutos)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'ID a publicar ya (ej. P01). Debe estar "approved".'
+        required: false
+      dry_run:
+        description: 'Solo validar, no publicar (1 = sí)'
+        required: false
+        default: ''
+concurrency: instagram-publish
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Publicar
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}
+          ONLY: ${{ inputs.only }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: node scripts/publish.mjs
+      - name: Guardar lo publicado
+        if: always()
+        run: |
+          git config user.name "collecta-bot"
+          git config user.email "collecta-bot@users.noreply.github.com"
+          git add state/published.json
+          git diff --cached --quiet || (git commit -m "Instagram: registrar publicaciones" && git pull --rebase && git push)
