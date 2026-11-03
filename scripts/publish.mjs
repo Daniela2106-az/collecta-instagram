@@ -112,6 +112,8 @@ due = DRY_RUN ? due : due.slice(0, Number(MAX_PER_RUN));
 
 if (!due.length) { console.log('Nada para publicar ahora.'); process.exit(0); }
 
+// Diagnóstico seguro (nunca imprime el token): solo forma y largo
+console.log(`Token: ${IG_ACCESS_TOKEN.length} caracteres, espacios/saltos: ${/\s/.test(IG_ACCESS_TOKEN) ? 'SÍ' : 'no'}, comillas: ${/["']/.test(IG_ACCESS_TOKEN) ? 'SÍ' : 'no'}, contiene "=" o "&": ${/[=&]/.test(IG_ACCESS_TOKEN) ? 'SÍ' : 'no'}`);
 const me = (await call('GET', 'me', { fields: 'user_id,username' }));
 console.log(`Cuenta: @${me.username} (${me.user_id})`);
 
