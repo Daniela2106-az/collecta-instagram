@@ -20,7 +20,7 @@ La usuaria (Daniela) no es técnica: explícale todo en español, claro y paso a
 4. Antes de cualquier publicación real corre una validación: `DRY_RUN=1` (o el workflow con `dry_run=1`). Verifica que cada imagen sea pública y JPEG.
 5. No re-publiques lo que ya está en `state/published.json`.
 6. Tono de las descripciones: cercano, claro, en español de Colombia, sin exagerar. No prometas funciones que no existen: hoy Collecta **no guarda ni mueve dinero** (cada quien paga por su banco y quien recibe confirma). El escáner con IA ya funciona pero es **premium**. El primer y el último post de cada serie llevan el enlace de la app: https://collecta-xi.vercel.app
-7. **Gratis vs premium** (según el pitch deck): la versión beta gratuita incluye grupos, 4 formas de dividir (iguales, montos exactos, por ítem con propina, por noches), registro y confirmación de pagos y captura manual con foto del comprobante. Son **premium**: metas de ahorro, gastos automáticos, préstamos en cuotas y escáner con IA. Distinción discreta; no pongas precios en las publicaciones. Para lo premium el llamado es «escríbenos para activarla».
+7. **Gratis vs premium** (según el pitch deck): la versión beta gratuita incluye grupos, 4 formas de dividir (iguales, montos exactos, por ítem con propina, por noches), registro y confirmación de pagos y captura manual con foto del comprobante. Son **premium**: metas de ahorro, gastos automáticos, préstamos en cuotas y escáner con IA. Distinción discreta; no pongas precios en las publicaciones. Para lo premium el llamado es «adquiérela desde la app» (nunca «escríbenos»).
 8. Hashtags: pocos (4–8), relevantes. Se agregan al final de la descripción al publicar.
 
 ## Tareas habituales
