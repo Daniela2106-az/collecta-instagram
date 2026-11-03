@@ -115,7 +115,7 @@
     ],
     "when": "2026-11-13T19:00:00-05:00",
     "status": "draft",
-    "caption": "Arriendo, servicios, mesada: prográmalo una sola vez y el gasto nace repartido cada mes. Cero recordatorios manuales.\n👉 Compártelo con tu parcero de apartamento.",
+    "caption": "Arriendo, servicios, mesada: prográmalo una sola vez y el gasto nace repartido cada mes. Cero recordatorios manuales.\n👉 Es una función premium: escríbenos para activarla.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -136,7 +136,7 @@
     ],
     "when": "2026-11-14T11:00:00-05:00",
     "status": "draft",
-    "caption": "Una meta clara junta al grupo: ponle nombre y monto, y mira cuánto aporta cada quien. Ahorrar entre varios sí se logra.\n👉 Etiqueta a con quién ahorrarías para tu próximo viaje.",
+    "caption": "Una meta clara junta al grupo: ponle nombre y monto, y mira cuánto aporta cada quien. Ahorrar entre varios sí se logra.\n👉 Es una función premium: escríbenos para activarla.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -181,7 +181,7 @@
     "when": "2026-11-18T12:00:00-05:00",
     "status": "needs_review",
     "review": "Confirmar que el escáner sigue «muy pronto» antes de publicar (hoy está apagado en la app).",
-    "caption": "Muy pronto: sube la foto de la cuenta y llena los gastos más rápido. Estamos trabajándolo para ustedes.\n👉 Síguenos para ser los primeros en probarlo.",
+    "caption": "Muy pronto: sube la foto de la cuenta y llena los gastos más rápido. Será una función premium.\n👉 Escríbenos si quieres ser de los primeros en tenerla.",
     "hashtags": [
       "#Collecta",
       "#EscanerDeRecibos",
@@ -344,7 +344,7 @@
     "when": "2026-11-18T18:00:00-05:00",
     "status": "needs_review",
     "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar.",
-    "caption": "Muy pronto: el escáner de recibos. Estamos preparándolo.\n👉 Síguenos para probarlo primero.",
+    "caption": "Muy pronto: el escáner de recibos, una función premium.\n👉 Escríbenos para enterarte primero.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
