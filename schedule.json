@@ -47,7 +47,7 @@
       "carrusel-5-ya-pagaron",
       "carrusel-6-cierre"
     ],
-    "when": "2026-11-07T11:00:00-05:00",
+    "when": "2026-11-09T20:00:00-05:00",
     "status": "needs_review",
     "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 3 y 6).",
     "caption": "Los planes en grupo no se dañan por el plan, sino por las cuentas. Alguien paga, alguien olvida y nadie sabe cuánto es.\n👉 Guarda este post y mándaselo al que siempre pone la plata.",
@@ -69,7 +69,7 @@
       "como-funciona",
       "convocatoria"
     ],
-    "when": "2026-11-09T20:00:00-05:00",
+    "when": "2026-11-07T11:00:00-05:00",
     "status": "needs_review",
     "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 2 y 3).",
     "caption": "Collecta lleva las cuentas del grupo para que ustedes solo se preocupen del plan. Cada gasto queda claro desde el primer día.\n👉 Síguenos para no perderte lo que viene.",
