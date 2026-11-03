@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "P20",
+    "type": "post",
+    "title": "Quiénes somos",
+    "files": [
+      "quienes-somos"
+    ],
+    "when": "2026-11-05T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Somos Collecta, una startup colombiana que nació de un problema que todos conocemos: el viaje, el parche o el arriendo, y nadie sabe bien quién debe qué. 🙌\nEn las próximas publicaciones te mostramos, una por una, todo lo que puedes hacer con la app. Quédate atento y síguenos.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
     "id": "S4",
     "type": "story",
     "title": "Story síguenos",
@@ -63,42 +81,6 @@
     "when": "2026-11-06T12:00:00-05:00",
     "status": "draft",
     "caption": "Finanzas compartidas, cuentas claras.\n👉 Síguenos para no perderte nada.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "P20",
-    "type": "post",
-    "title": "Quiénes somos",
-    "files": [
-      "quienes-somos"
-    ],
-    "when": "2026-11-07T11:00:00-05:00",
-    "status": "draft",
-    "caption": "Collecta lleva las cuentas del grupo para que ustedes solo se preocupen del plan. Cada gasto queda claro desde el primer día.\n👉 Síguenos para no perderte lo que viene.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "S3",
-    "type": "story",
-    "title": "Story confianza",
-    "files": [
-      "story-no-hacemos"
-    ],
-    "when": "2026-11-09T12:00:00-05:00",
-    "status": "draft",
-    "caption": "Tu plata siempre pasa por tu banco. Collecta solo lleva las cuentas.\n👉 Síguenos.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -119,9 +101,9 @@
       "carrusel-5-ya-pagaron",
       "carrusel-6-cierre"
     ],
-    "when": "2026-11-09T20:00:00-05:00",
+    "when": "2026-11-07T11:00:00-05:00",
     "status": "draft",
-    "caption": "Los planes en grupo no se dañan por el plan, sino por las cuentas. Alguien paga, alguien olvida y nadie sabe cuánto es.\n👉 Guarda este post y mándaselo al que siempre pone la plata.\n👉 Pruébala gratis: collecta-xi.vercel.app",
+    "caption": "¿Te ha pasado? Alguien paga la cuenta, otro «te la debo», y a las dos semanas nadie se acuerda de cuánto era. Los planes en grupo no se dañan por el plan, sino por las cuentas. 😅\nEso es lo que estamos resolviendo en Collecta: que todos vean lo mismo y cada quien sepa cuánto debe.\nDesliza y cuéntanos en comentarios cuál te ha tocado a ti. 👇",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -131,18 +113,33 @@
     ]
   },
   {
-    "id": "P04",
-    "type": "carousel",
-    "title": "Escáner con IA · premium",
+    "id": "P16",
+    "type": "post",
+    "title": "Así se ve un viaje",
     "files": [
-      "escaner-portada",
-      "que-hacemos",
-      "como-funciona",
-      "convocatoria"
+      "asi-se-ve-un-viaje"
     ],
-    "when": "2026-11-11T12:00:00-05:00",
+    "when": "2026-11-09T20:00:00-05:00",
     "status": "draft",
-    "caption": "Fotografía la factura y deja que la IA lea cada producto y precio; tú solo eliges quién consumió qué.\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "Así se ve un grupo en Collecta: cada gasto, cada aporte y cuánto le debe cada quien a quién, todo en un solo lugar, sin chats eternos ni cuentas en la cabeza. ✈️\nDesliza para ver cómo se lee una cuenta de viaje.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P11",
+    "type": "post",
+    "title": "No todos consumen igual",
+    "files": [
+      "partes-desiguales"
+    ],
+    "when": "2026-11-13T19:00:00-05:00",
+    "status": "draft",
+    "caption": "No todos piden lo mismo, y dividir en partes iguales no siempre es justo. El que pidió ensalada no debería pagar los tragos de los demás. 🍹\nEn Collecta puedes dividir como de verdad se consumió. En la siguiente publicación te mostramos las 4 formas.\nSíguenos para no perdértelas.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -163,31 +160,9 @@
       "div-3",
       "div-6"
     ],
-    "when": "2026-11-13T19:00:00-05:00",
-    "status": "draft",
-    "caption": "Partes iguales, montos exactos, por ítem con propina o por noches de hotel: tú eliges cómo se divide cada gasto. Y es gratis en la versión beta.\n👉 Cuéntanos en los comentarios cuál usarías tú.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "P06",
-    "type": "carousel",
-    "title": "Gastos automáticos",
-    "files": [
-      "aut-1",
-      "aut-2",
-      "aut-3",
-      "aut-4",
-      "aut-5"
-    ],
     "when": "2026-11-14T11:00:00-05:00",
     "status": "draft",
-    "caption": "Arriendo, servicios, mesada: prográmalo una sola vez y el gasto nace repartido cada mes. Cero recordatorios manuales.\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "En Collecta eliges cómo dividir cada gasto:\n1️⃣ En partes iguales\n2️⃣ Por montos exactos\n3️⃣ Por ítem, cada uno paga lo que pidió, con propina incluida\n4️⃣ Por noches, ideal si se quedan en un hotel o una cabaña y no todos llegan el mismo día.\nEs gratis en la beta, pruébalo con tu próximo plan. Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -197,19 +172,15 @@
     ]
   },
   {
-    "id": "P07",
-    "type": "carousel",
-    "title": "Metas de ahorro",
+    "id": "P18",
+    "type": "post",
+    "title": "Antes y con Collecta · Dividir",
     "files": [
-      "met-1",
-      "met-2",
-      "met-3",
-      "met-4",
-      "met-5"
+      "antes-despues-dividir"
     ],
     "when": "2026-11-16T20:00:00-05:00",
     "status": "draft",
-    "caption": "Una meta clara junta al grupo: ponle nombre y monto, y mira cuánto aporta cada quien. Ahorrar entre varios sí se logra.\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "Antes: la calculadora, el «yo ni pedí postre» y media hora para repartir la cuenta. Con Collecta: eliges la forma de dividir y cada quien ve lo que le toca. 🧾\nSí, dividir la cuenta puede ser fácil.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -231,103 +202,7 @@
     ],
     "when": "2026-11-18T12:00:00-05:00",
     "status": "draft",
-    "caption": "Cada pago queda registrado con su comprobante y quien recibe confirma que le llegó. Collecta no mueve tu plata: cada quien paga por su banco.\n👉 Guárdalo para cuando te pregunten cómo funciona.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "S2",
-    "type": "story",
-    "title": "Story escáner",
-    "files": [
-      "story-escaner"
-    ],
-    "when": "2026-11-20T18:00:00-05:00",
-    "status": "draft",
-    "caption": "Escanea la factura: la IA lee cada producto y precio. Función premium.\n👉 Adquiérela desde la app.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "P09",
-    "type": "carousel",
-    "title": "Escáner de recibos (muy pronto)",
-    "files": [
-      "esc-1",
-      "esc-2",
-      "esc-3",
-      "esc-4",
-      "esc-5",
-      "esc-6",
-      "esc-7"
-    ],
-    "when": "2026-11-20T19:00:00-05:00",
-    "status": "draft",
-    "caption": "Fotografía la cuenta y deja que la IA lea cada producto y precio. Tú solo eliges quién consumió qué.\n👉 Es una función premium: adquiérela desde la app.",
-    "hashtags": [
-      "#Collecta",
-      "#EscanerDeRecibos",
-      "#GastosCompartidos",
-      "#CuentasClaras",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "P10",
-    "type": "post",
-    "title": "Antes y con Collecta",
-    "files": [
-      "antes-despues"
-    ],
-    "when": "2026-11-21T11:00:00-05:00",
-    "status": "draft",
-    "caption": "Antes: chats eternos y cuentas en la cabeza. Con Collecta: todo claro en un solo lugar.\n👉 Etiqueta al que más se enreda con las cuentas.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "P11",
-    "type": "post",
-    "title": "No todos consumen igual",
-    "files": [
-      "partes-desiguales"
-    ],
-    "when": "2026-11-23T20:00:00-05:00",
-    "status": "draft",
-    "caption": "No todos consumen igual, y dividir en partes iguales no siempre es justo. Con Collecta cada quien paga lo que le toca.\n👉 Dinos en comentarios: ¿te ha pasado?",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "P12",
-    "type": "post",
-    "title": "Las cuentas claras",
-    "files": [
-      "refran"
-    ],
-    "when": "2026-11-25T12:00:00-05:00",
-    "status": "draft",
-    "caption": "Cuentas claras y chocolate espeso, dice el refrán. Con Collecta lo hacemos app.\n👉 Compártelo con tu grupo de amigos.",
+    "caption": "Cuando alguien te paga, queda registrado. Cada quien paga por su banco, sube la foto de su comprobante y quien recibe confirma que le llegó. Así nadie queda con la duda de «¿ya me pagaste?». ✅\nNota: Collecta no guarda ni mueve tu dinero, solo lleva las cuentas claras.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -343,9 +218,9 @@
     "files": [
       "antes-despues-pagos"
     ],
-    "when": "2026-11-27T19:00:00-05:00",
+    "when": "2026-11-20T19:00:00-05:00",
     "status": "draft",
-    "caption": "Del «ya te pagué, créeme» al pago con comprobante y confirmación. Quien recibe confirma y todos ven el saldo al día.\n👉 Guárdalo para tu próximo plan.",
+    "caption": "Antes: «ya te pagué, créeme». Con Collecta: pago con comprobante y confirmación de quien recibe. Todo queda registrado y nadie tiene que pedirle pruebas a un amigo. 🤝\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -361,9 +236,9 @@
     "files": [
       "lista-viaje"
     ],
-    "when": "2026-11-28T11:00:00-05:00",
+    "when": "2026-11-21T11:00:00-05:00",
     "status": "draft",
-    "caption": "Hacer la lista del viaje es fácil; saber quién pagó qué, no tanto. Mantén los gastos del plan en un solo lugar.\n👉 Guárdalo para tu próximo viaje.",
+    "caption": "Armar la lista del viaje es fácil; saber quién pagó qué, no tanto. En Collecta creas el grupo, añades a tus amigos y vas registrando los gastos del plan a medida que pasan, incluso con foto del comprobante. 🧳\nAl final todos ven cuánto le toca a cada uno.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -379,9 +254,9 @@
     "files": [
       "lo-que-no-hacemos"
     ],
-    "when": "2026-11-30T20:00:00-05:00",
+    "when": "2026-11-23T20:00:00-05:00",
     "status": "draft",
-    "caption": "Collecta no guarda tu plata ni mueve dinero entre cuentas. Solo lleva las cuentas claras para que cada quien pague por su banco.\n👉 Síguenos para conocer más.",
+    "caption": "Aclaramos algo importante: Collecta no guarda tu plata ni mueve dinero entre cuentas. Cada quien paga por su banco como siempre, y nosotros solo llevamos las cuentas claras para que nadie se pierda. 🔒\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -391,15 +266,59 @@
     ]
   },
   {
-    "id": "P18",
-    "type": "post",
-    "title": "Antes y con Collecta · Dividir",
+    "id": "S3",
+    "type": "story",
+    "title": "Story confianza",
     "files": [
-      "antes-despues-dividir"
+      "story-no-hacemos"
     ],
-    "when": "2026-12-02T12:00:00-05:00",
+    "when": "2026-11-24T12:00:00-05:00",
     "status": "draft",
-    "caption": "Entre la calculadora y el «yo ni pedí postre», dividir la cuenta se vuelve un drama. Con Collecta cada uno paga lo que pidió, con propina incluida.\n👉 Mándaselo al que siempre saca la calculadora.",
+    "caption": "Tu plata siempre pasa por tu banco. Collecta solo lleva las cuentas.\n👉 Síguenos.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P06",
+    "type": "carousel",
+    "title": "Gastos automáticos",
+    "files": [
+      "aut-1",
+      "aut-2",
+      "aut-3",
+      "aut-4",
+      "aut-5"
+    ],
+    "when": "2026-11-25T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Arriendo, servicios, internet, la mesada de tu hijo… Lo que se repite cada mes puedes programarlo una sola vez en Collecta y la app te avisa cuando toca pagar. Sirve para gastos compartidos o solo para los tuyos. 🔁\n👉 Es una función premium: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P07",
+    "type": "carousel",
+    "title": "Metas de ahorro",
+    "files": [
+      "met-1",
+      "met-2",
+      "met-3",
+      "met-4",
+      "met-5"
+    ],
+    "when": "2026-11-27T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Quieren ahorrar juntos para el viaje de fin de año? Ponle nombre y monto a la meta, y mira cuánto ha aportado cada quien y cuánto falta. La app avisa cuando hay un aporte pendiente. 🎯\n👉 Es una función premium: adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -415,9 +334,9 @@
     "files": [
       "antes-despues-ahorro"
     ],
-    "when": "2026-12-04T19:00:00-05:00",
+    "when": "2026-11-28T11:00:00-05:00",
     "status": "draft",
-    "caption": "Nadie sabe cuánto llevan ahorrado ni quién falta por aportar. Con las metas de ahorro de Collecta todo queda a la vista del grupo.\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "Antes: «¿cuánto llevamos ahorrado?» y nadie sabía. Con las metas de ahorro de Collecta: cada aporte a la vista y nadie se queda sin aportar. 💰\n👉 Es una función premium: adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#MetasDeAhorro",
@@ -427,15 +346,96 @@
     ]
   },
   {
-    "id": "P16",
-    "type": "post",
-    "title": "Así se ve un viaje",
+    "id": "P04",
+    "type": "carousel",
+    "title": "Escáner con IA · premium",
     "files": [
-      "asi-se-ve-un-viaje"
+      "escaner-portada",
+      "que-hacemos",
+      "como-funciona",
+      "convocatoria"
+    ],
+    "when": "2026-11-30T20:00:00-05:00",
+    "status": "draft",
+    "caption": "Tómale una foto al recibo del restaurante: la IA de Collecta lee cada producto y cada precio, y tú solo eliges quién consumió qué. Se acabó digitar la cuenta ítem por ítem. 📸\n👉 Es una función premium: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P09",
+    "type": "carousel",
+    "title": "Escáner con IA · paso a paso",
+    "files": [
+      "esc-1",
+      "esc-2",
+      "esc-3",
+      "esc-4",
+      "esc-5",
+      "esc-6",
+      "esc-7"
+    ],
+    "when": "2026-12-02T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Así funciona el escáner con IA de Collecta, paso a paso: fotografías el recibo, la IA identifica los productos, los asignas a cada persona y la cuenta queda repartida con propina incluida. 🍽️\n👉 Es una función premium: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#EscanerDeRecibos",
+      "#GastosCompartidos",
+      "#CuentasClaras",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "S2",
+    "type": "story",
+    "title": "Story escáner",
+    "files": [
+      "story-escaner"
+    ],
+    "when": "2026-12-03T18:00:00-05:00",
+    "status": "draft",
+    "caption": "Escanea la factura: la IA lee cada producto y precio. Función premium.\n👉 Adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P10",
+    "type": "post",
+    "title": "Antes y con Collecta",
+    "files": [
+      "antes-despues"
+    ],
+    "when": "2026-12-04T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Antes: chats eternos y cuentas en la cabeza. Con Collecta: todo claro en un solo lugar y cada quien sabe cuánto debe. ✨\nEmpieza gratis y súmate a la beta.\nPruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P12",
+    "type": "post",
+    "title": "Las cuentas claras",
+    "files": [
+      "refran"
     ],
     "when": "2026-12-05T11:00:00-05:00",
     "status": "draft",
-    "caption": "Así se ve un viaje con las cuentas al día: cada gasto, cada aporte y cada saldo a la vista de todos.\n👉 Compártelo con tu próximo plan.\n👉 Pruébala gratis: collecta-xi.vercel.app",
+    "caption": "Cuentas claras y chocolate espeso, dice el refrán. Con Collecta lo hacemos app. 🍫\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
