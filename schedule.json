@@ -6,7 +6,7 @@
     "files": [
       "presentacion-marca"
     ],
-    "when": "2026-11-04T19:00:00-05:00",
+    "when": "2026-11-04T12:00:00-05:00",
     "status": "draft",
     "caption": "Hola, somos Collecta: finanzas compartidas, cuentas claras. Se acabaron los chats eternos para saber quién debe qué.\n👉 Síguenos para enterarte primero.",
     "hashtags": [
@@ -47,7 +47,7 @@
       "carrusel-5-ya-pagaron",
       "carrusel-6-cierre"
     ],
-    "when": "2026-11-09T19:00:00-05:00",
+    "when": "2026-11-07T11:00:00-05:00",
     "status": "needs_review",
     "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 3 y 6).",
     "caption": "Los planes en grupo no se dañan por el plan, sino por las cuentas. Alguien paga, alguien olvida y nadie sabe cuánto es.\n👉 Guarda este post y mándaselo al que siempre pone la plata.",
@@ -69,7 +69,7 @@
       "como-funciona",
       "convocatoria"
     ],
-    "when": "2026-11-11T19:00:00-05:00",
+    "when": "2026-11-09T20:00:00-05:00",
     "status": "needs_review",
     "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 2 y 3).",
     "caption": "Collecta lleva las cuentas del grupo para que ustedes solo se preocupen del plan. Cada gasto queda claro desde el primer día.\n👉 Síguenos para no perderte lo que viene.",
@@ -92,7 +92,7 @@
       "div-4",
       "div-5"
     ],
-    "when": "2026-11-13T19:00:00-05:00",
+    "when": "2026-11-11T12:00:00-05:00",
     "status": "draft",
     "caption": "Partes iguales, cada quien lo suyo o por porcentaje: tú eliges cómo se divide cada gasto. Justo para todos, sin discusiones.\n👉 Cuéntanos cuál usas tú en los comentarios.",
     "hashtags": [
@@ -113,7 +113,7 @@
       "aut-3",
       "aut-4"
     ],
-    "when": "2026-11-16T19:00:00-05:00",
+    "when": "2026-11-13T19:00:00-05:00",
     "status": "draft",
     "caption": "Arriendo, servicios, mesada: prográmalo una sola vez y el gasto nace repartido cada mes. Cero recordatorios manuales.\n👉 Compártelo con tu parcero de apartamento.",
     "hashtags": [
@@ -134,7 +134,7 @@
       "met-3",
       "met-4"
     ],
-    "when": "2026-11-18T19:00:00-05:00",
+    "when": "2026-11-14T11:00:00-05:00",
     "status": "draft",
     "caption": "Una meta clara junta al grupo: ponle nombre y monto, y mira cuánto aporta cada quien. Ahorrar entre varios sí se logra.\n👉 Etiqueta a con quién ahorrarías para tu próximo viaje.",
     "hashtags": [
@@ -155,7 +155,7 @@
       "pag-3",
       "pag-4"
     ],
-    "when": "2026-11-20T19:00:00-05:00",
+    "when": "2026-11-16T20:00:00-05:00",
     "status": "draft",
     "caption": "Collecta no mueve tu plata: cada quien paga por su banco y quien recibe confirma. Así todo queda claro y registrado.\n👉 Guárdalo para cuando te pregunten cómo funciona.",
     "hashtags": [
@@ -178,7 +178,7 @@
       "esc-5",
       "esc-6"
     ],
-    "when": "2026-11-23T19:00:00-05:00",
+    "when": "2026-11-18T12:00:00-05:00",
     "status": "needs_review",
     "review": "Confirmar que el escáner sigue «muy pronto» antes de publicar (hoy está apagado en la app).",
     "caption": "Muy pronto: sube la foto de la cuenta y llena los gastos más rápido. Estamos trabajándolo para ustedes.\n👉 Síguenos para ser los primeros en probarlo.",
@@ -197,7 +197,7 @@
     "files": [
       "antes-despues"
     ],
-    "when": "2026-11-25T19:00:00-05:00",
+    "when": "2026-11-20T19:00:00-05:00",
     "status": "draft",
     "caption": "Antes: chats eternos y cuentas en la cabeza. Con Collecta: todo claro en un solo lugar.\n👉 Etiqueta al que más se enreda con las cuentas.",
     "hashtags": [
@@ -215,7 +215,7 @@
     "files": [
       "partes-desiguales"
     ],
-    "when": "2026-11-27T19:00:00-05:00",
+    "when": "2026-11-21T11:00:00-05:00",
     "status": "draft",
     "caption": "No todos consumen igual, y dividir en partes iguales no siempre es justo. Con Collecta cada quien paga lo que le toca.\n👉 Dinos en comentarios: ¿te ha pasado?",
     "hashtags": [
@@ -233,7 +233,7 @@
     "files": [
       "refran"
     ],
-    "when": "2026-11-30T19:00:00-05:00",
+    "when": "2026-11-23T20:00:00-05:00",
     "status": "draft",
     "caption": "Cuentas claras, amistades largas. Lo dice el refrán y lo hacemos app.\n👉 Compártelo con tu grupo de amigos.",
     "hashtags": [
@@ -251,7 +251,7 @@
     "files": [
       "encuesta"
     ],
-    "when": "2026-12-02T19:00:00-05:00",
+    "when": "2026-11-25T12:00:00-05:00",
     "status": "draft",
     "caption": "Pregunta de grupo: ¿quién suele poner la plata primero en tus planes? Queremos saber cómo lo viven ustedes.\n👉 Responde en los comentarios.",
     "hashtags": [
@@ -269,7 +269,7 @@
     "files": [
       "lista-viaje"
     ],
-    "when": "2026-12-04T19:00:00-05:00",
+    "when": "2026-11-27T19:00:00-05:00",
     "status": "draft",
     "caption": "Hacer la lista del viaje es fácil; saber quién pagó qué, no tanto. Mantén los gastos del plan en un solo lugar.\n👉 Guárdalo para tu próximo viaje.",
     "hashtags": [
@@ -287,7 +287,7 @@
     "files": [
       "lo-que-no-hacemos"
     ],
-    "when": "2026-12-07T19:00:00-05:00",
+    "when": "2026-11-28T11:00:00-05:00",
     "status": "draft",
     "caption": "Collecta no guarda tu plata ni mueve dinero entre cuentas. Solo lleva las cuentas claras para que cada quien pague por su banco.\n👉 Síguenos para conocer más.",
     "hashtags": [
@@ -305,7 +305,7 @@
     "files": [
       "asi-se-ve-un-viaje"
     ],
-    "when": "2026-12-09T19:00:00-05:00",
+    "when": "2026-11-30T20:00:00-05:00",
     "status": "draft",
     "caption": "Así se ve un viaje con las cuentas al día: cada gasto, cada aporte y cada saldo a la vista de todos.\n👉 Compártelo con tu próximo plan.",
     "hashtags": [
@@ -323,7 +323,7 @@
     "files": [
       "story-presentacion"
     ],
-    "when": "2026-11-04T12:00:00-05:00",
+    "when": "2026-11-04T18:00:00-05:00",
     "status": "draft",
     "caption": "Hola, somos Collecta. Finanzas compartidas, cuentas claras.\n👉 Síguenos.",
     "hashtags": [
@@ -341,7 +341,7 @@
     "files": [
       "story-escaner"
     ],
-    "when": "2026-11-23T12:00:00-05:00",
+    "when": "2026-11-18T18:00:00-05:00",
     "status": "needs_review",
     "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar.",
     "caption": "Muy pronto: el escáner de recibos. Estamos preparándolo.\n👉 Síguenos para probarlo primero.",
@@ -360,7 +360,7 @@
     "files": [
       "story-no-hacemos"
     ],
-    "when": "2026-11-11T12:00:00-05:00",
+    "when": "2026-11-09T12:00:00-05:00",
     "status": "draft",
     "caption": "Tu plata siempre pasa por tu banco. Collecta solo lleva las cuentas.\n👉 Síguenos.",
     "hashtags": [
