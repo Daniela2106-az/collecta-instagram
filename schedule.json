@@ -48,8 +48,7 @@
       "carrusel-6-cierre"
     ],
     "when": "2026-11-09T20:00:00-05:00",
-    "status": "needs_review",
-    "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 3 y 6).",
+    "status": "draft",
     "caption": "Los planes en grupo no se dañan por el plan, sino por las cuentas. Alguien paga, alguien olvida y nadie sabe cuánto es.\n👉 Guarda este post y mándaselo al que siempre pone la plata.",
     "hashtags": [
       "#Collecta",
@@ -70,8 +69,7 @@
       "convocatoria"
     ],
     "when": "2026-11-07T11:00:00-05:00",
-    "status": "needs_review",
-    "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar. (láminas 2 y 3).",
+    "status": "draft",
     "caption": "Collecta lleva las cuentas del grupo para que ustedes solo se preocupen del plan. Cada gasto queda claro desde el primer día.\n👉 Síguenos para no perderte lo que viene.",
     "hashtags": [
       "#Collecta",
@@ -179,9 +177,8 @@
       "esc-6"
     ],
     "when": "2026-11-18T12:00:00-05:00",
-    "status": "needs_review",
-    "review": "Confirmar que el escáner sigue «muy pronto» antes de publicar (hoy está apagado en la app).",
-    "caption": "Muy pronto: sube la foto de la cuenta y llena los gastos más rápido. Será una función premium.\n👉 Escríbenos si quieres ser de los primeros en tenerla.",
+    "status": "draft",
+    "caption": "Fotografía la cuenta y deja que la IA lea cada producto y precio. Tú solo eliges quién consumió qué.\n👉 Es una función premium: escríbenos para activarla.",
     "hashtags": [
       "#Collecta",
       "#EscanerDeRecibos",
@@ -342,9 +339,8 @@
       "story-escaner"
     ],
     "when": "2026-11-18T18:00:00-05:00",
-    "status": "needs_review",
-    "review": "Dice «IA» / «Escanea la factura»: el escáner está apagado en la app (ESCANER_ACTIVO=false) y lee texto (OCR). Cambiar a «Muy pronto» o quitar antes de aprobar.",
-    "caption": "Muy pronto: el escáner de recibos, una función premium.\n👉 Escríbenos para enterarte primero.",
+    "status": "draft",
+    "caption": "Escanea la factura: la IA lee cada producto y precio. Función premium.\n👉 Escríbenos para activarla.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
