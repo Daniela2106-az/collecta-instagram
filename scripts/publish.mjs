@@ -100,14 +100,15 @@ const now = new Date();
 
 let due = schedule.filter((p) => {
   if (state[p.id]) return false;                       // ya publicada
+  if (DRY_RUN && !ONLY) return true;                   // validación: revisa todo lo pendiente (aunque sea borrador)
   if (ONLY) return p.id === ONLY;                      // forzada a mano
   return p.status === 'approved' && new Date(p.when) <= now;
 });
-if (ONLY && due.length && due[0].status !== 'approved') {
+if (ONLY && !DRY_RUN && due.length && due[0].status !== 'approved') {
   console.error(`${ONLY} no está "approved" (está "${due[0].status}"). No se publica.`); process.exit(3);
 }
 due.sort((a, b) => new Date(a.when) - new Date(b.when));
-due = due.slice(0, Number(MAX_PER_RUN));
+due = DRY_RUN ? due : due.slice(0, Number(MAX_PER_RUN));
 
 if (!due.length) { console.log('Nada para publicar ahora.'); process.exit(0); }
 
