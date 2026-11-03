@@ -25,6 +25,8 @@ jobs:
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}
+          GRAPH_BASE: https://graph.facebook.com
+          IG_USER_ID: '17841445566341296'
           ONLY: ${{ inputs.only }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: node scripts/publish.mjs

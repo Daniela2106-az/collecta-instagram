@@ -10,6 +10,7 @@ const {
   MEDIA_BASE_URL,                       // ej: https://raw.githubusercontent.com/USUARIO/collecta-instagram/main
   GRAPH_BASE = 'https://graph.instagram.com',
   GRAPH_VERSION = 'v23.0',
+  IG_USER_ID = '',                      // necesario con el token de «Unified login» (graph.facebook.com)
   DRY_RUN = '',
   ONLY = '',
   MAX_PER_RUN = '3',
@@ -114,7 +115,9 @@ if (!due.length) { console.log('Nada para publicar ahora.'); process.exit(0); }
 
 // Diagnóstico seguro (nunca imprime el token): solo forma y largo
 console.log(`Token: ${IG_ACCESS_TOKEN.length} caracteres, espacios/saltos: ${/\s/.test(IG_ACCESS_TOKEN) ? 'SÍ' : 'no'}, comillas: ${/["']/.test(IG_ACCESS_TOKEN) ? 'SÍ' : 'no'}, contiene "=" o "&": ${/[=&]/.test(IG_ACCESS_TOKEN) ? 'SÍ' : 'no'}`);
-const me = (await call('GET', 'me', { fields: 'user_id,username' }));
+const me = IG_USER_ID
+  ? { user_id: IG_USER_ID, ...(await call('GET', IG_USER_ID, { fields: 'username' })) }
+  : (await call('GET', 'me', { fields: 'user_id,username' }));
 console.log(`Cuenta: @${me.username} (${me.user_id})`);
 
 let failed = 0;
