@@ -113,6 +113,18 @@
     ]
   },
   {
+    "id": "S7",
+    "type": "story",
+    "title": "Story · Pregunta a la comunidad",
+    "files": [
+      "story-pregunta"
+    ],
+    "when": "2026-11-08T18:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
     "id": "P16",
     "type": "post",
     "title": "Así se ve un viaje",
@@ -129,6 +141,53 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
+  },
+  {
+    "id": "S5",
+    "type": "story",
+    "title": "Story · Empieza en 4 pasos (teaser)",
+    "files": [
+      "story-pasos"
+    ],
+    "when": "2026-11-10T18:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
+    "id": "P21",
+    "type": "carousel",
+    "title": "Empieza en 4 pasos",
+    "files": [
+      "pasos-1",
+      "pasos-2",
+      "pasos-3",
+      "pasos-4",
+      "pasos-5",
+      "pasos-6"
+    ],
+    "when": "2026-11-11T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Así de fácil es empezar con Collecta, en 4 pasos:\n1️⃣ Crea el grupo (el viaje, la casa o el parche)\n2️⃣ Añade a tus amigos\n3️⃣ Crea los gastos y reparte como prefieras\n4️⃣ Cada quien paga por su banco, sube el comprobante y quien recibe confirma ✅\nTodo en un solo lugar y sin chats eternos.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "S6",
+    "type": "story",
+    "title": "Story · Crea tu grupo",
+    "files": [
+      "story-grupo"
+    ],
+    "when": "2026-11-12T18:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
   },
   {
     "id": "P11",
@@ -172,6 +231,30 @@
     ]
   },
   {
+    "id": "S8",
+    "type": "story",
+    "title": "Story · Formas de dividir",
+    "files": [
+      "story-dividir"
+    ],
+    "when": "2026-11-14T18:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
+    "id": "S9",
+    "type": "story",
+    "title": "Story · Antes y con Collecta",
+    "files": [
+      "story-antes"
+    ],
+    "when": "2026-11-16T12:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
     "id": "P18",
     "type": "post",
     "title": "Antes y con Collecta · Dividir",
@@ -210,6 +293,18 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
+  },
+  {
+    "id": "S10",
+    "type": "story",
+    "title": "Story · Pagos y confirmación",
+    "files": [
+      "story-pagos"
+    ],
+    "when": "2026-11-18T18:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
   },
   {
     "id": "P17",
@@ -304,6 +399,30 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
+  },
+  {
+    "id": "S11",
+    "type": "story",
+    "title": "Story · Gastos automáticos · premium",
+    "files": [
+      "story-automaticos"
+    ],
+    "when": "2026-11-25T18:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
+    "id": "S12",
+    "type": "story",
+    "title": "Story · Metas de ahorro · premium",
+    "files": [
+      "story-metas"
+    ],
+    "when": "2026-11-27T12:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
   },
   {
     "id": "P07",
