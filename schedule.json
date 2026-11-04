@@ -36,6 +36,36 @@
     ]
   },
   {
+    "id": "S14",
+    "type": "story",
+    "title": "Story · Quiénes somos",
+    "files": [
+      "story-quienes"
+    ],
+    "when": "2026-11-03T20:15:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
+    "id": "P23",
+    "type": "post",
+    "title": "Startup Day Uninorte · invitación",
+    "files": [
+      "startup-day"
+    ],
+    "when": "2026-11-04T12:00:00-05:00",
+    "status": "draft",
+    "caption": "Hola, mi nombre es Daniela Maya y tengo este emprendimiento, una startup colombiana que se llama Collecta. 💙\nEste jueves 5 de noviembre, de 2:00 a 4:00 p. m., vamos a tener un stand en el Startup Day de la Universidad del Norte, en el Coliseo de los Fundadores, y me encantaría que me acompañaras.\nVamos a tener premios, juegos, dinámicas, a mostrarte la app y a regalar membresías Plus de Collecta. 🎁\nVen a conocer todo lo que tiene para ofrecer, llévate increíbles sorpresas y, si te gusta, vota por mi emprendimiento.\n📍 Coliseo de los Fundadores · Jueves 5 de noviembre · 2:00 – 4:00 p. m.\nTe espero. ¡Cuéntame si vienes! 👇",
+    "hashtags": [
+      "#Collecta",
+      "#StartupDay",
+      "#Uninorte",
+      "#Startup",
+      "#Colombia"
+    ]
+  },
+  {
     "id": "S1",
     "type": "story",
     "title": "Story presentación",
@@ -54,22 +84,16 @@
     ]
   },
   {
-    "id": "P20",
-    "type": "post",
-    "title": "Quiénes somos",
+    "id": "S15",
+    "type": "story",
+    "title": "Story · Startup Day (es hoy)",
     "files": [
-      "quienes-somos"
+      "story-startup"
     ],
-    "when": "2026-11-05T12:00:00-05:00",
+    "when": "2026-11-05T09:00:00-05:00",
     "status": "draft",
-    "caption": "Somos Collecta, una startup colombiana que nació de un problema que todos conocemos: el viaje, el parche o el arriendo, y nadie sabe bien quién debe qué. 🙌\nEn las próximas publicaciones te mostramos, una por una, todo lo que puedes hacer con la app. Quédate atento y síguenos.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
+    "caption": "",
+    "hashtags": []
   },
   {
     "id": "S4",
@@ -81,6 +105,24 @@
     "when": "2026-11-06T12:00:00-05:00",
     "status": "draft",
     "caption": "Finanzas compartidas, cuentas claras.\n👉 Síguenos para no perderte nada.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "P20",
+    "type": "post",
+    "title": "Quiénes somos",
+    "files": [
+      "quienes-somos"
+    ],
+    "when": "2026-11-06T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Somos Collecta, una startup colombiana que nació de un problema que todos conocemos: el viaje, el parche o el arriendo, y nadie sabe bien quién debe qué. 🙌\nEn las próximas publicaciones te mostramos, una por una, todo lo que puedes hacer con la app. Quédate atento y síguenos.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -119,7 +161,7 @@
     "files": [
       "story-pregunta"
     ],
-    "when": "2026-11-08T18:00:00-05:00",
+    "when": "2026-11-07T18:00:00-05:00",
     "status": "draft",
     "caption": "",
     "hashtags": []
