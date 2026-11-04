@@ -52,6 +52,7 @@ async function call(method, path, params = {}) {
 }
 
 const imageUrl = (id, n) => `${MEDIA_BASE_URL.replace(/\/$/, '')}/media/${id}/${n}.jpg`;
+const videoUrl = (id) => `${MEDIA_BASE_URL.replace(/\/$/, '')}/media/${id}/1.mp4`;
 
 async function checkImage(url) {
   const res = await fetch(url, { method: 'GET' });
@@ -60,8 +61,8 @@ async function checkImage(url) {
   if (!type.includes('jpeg')) throw new Error(`Instagram solo acepta JPEG; recibí "${type}": ${url}`);
 }
 
-async function waitReady(containerId) {
-  for (let i = 0; i < 30; i++) {
+async function waitReady(containerId, tries = 30) {
+  for (let i = 0; i < tries; i++) {
     const r = await call('GET', containerId, { fields: 'status_code,status' });
     if (r.status_code === 'FINISHED') return;
     if (r.status_code === 'ERROR' || r.status_code === 'EXPIRED') throw new Error(`Contenedor ${containerId}: ${r.status_code} ${r.status || ''}`);
@@ -75,7 +76,29 @@ function fullCaption(p) {
   return [p.caption, tags].filter(Boolean).join('\n\n');
 }
 
+async function checkVideo(url) {
+  const res = await fetch(url, { method: 'GET' });
+  if (!res.ok) throw new Error(`El video no es público o no existe (${res.status}): ${url}`);
+  const type = res.headers.get('content-type') || '';
+  if (!/mp4|octet-stream|video/.test(type)) throw new Error(`Instagram necesita MP4; recibí "${type}": ${url}`);
+}
+
 async function publishOne(p, me) {
+  if (p.video) {
+    // Pieza animada: media/<ID>/1.mp4 (H.264 + AAC). Un post en video se publica como Reel (también aparece en el perfil).
+    const v = videoUrl(p.id);
+    await checkVideo(v);
+    if (DRY_RUN) { console.log(`[dry-run] ${p.id} (${p.type}, video) OK: MP4 público`); return null; }
+    const params = p.type === 'story'
+      ? { media_type: 'STORIES', video_url: v, ...userTags(p, 0.5, 0.93) }
+      : { media_type: 'REELS', video_url: v, caption: fullCaption(p), share_to_feed: 'true' };
+    const c = (await call('POST', `${me}/media`, params)).id;
+    await waitReady(c, 120);
+    const pubv = await call('POST', `${me}/media_publish`, { creation_id: c });
+    let permalink = '';
+    try { permalink = (await call('GET', pubv.id, { fields: 'permalink' })).permalink || ''; } catch {}
+    return { mediaId: pubv.id, permalink, publishedAt: new Date().toISOString() };
+  }
   const files = p.files.map((_, i) => imageUrl(p.id, i + 1));
   for (const u of files) await checkImage(u);
   if (DRY_RUN) { console.log(`[dry-run] ${p.id} (${p.type}) OK: ${files.length} imagen(es) públicas y JPEG`); return null; }
