@@ -42,8 +42,8 @@
     "files": [
       "story-quienes"
     ],
-    "when": "2026-11-03T20:15:00-05:00",
-    "status": "draft",
+    "when": "2026-11-03T19:59:00-05:00",
+    "status": "approved",
     "caption": "",
     "hashtags": []
   },
@@ -91,7 +91,7 @@
       "story-startup"
     ],
     "when": "2026-11-05T09:00:00-05:00",
-    "status": "draft",
+    "status": "approved",
     "caption": "",
     "hashtags": []
   },
