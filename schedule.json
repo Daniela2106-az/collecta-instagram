@@ -386,12 +386,11 @@
       "aut-1",
       "aut-2",
       "aut-3",
-      "aut-4",
       "aut-5"
     ],
     "when": "2026-11-25T12:00:00-05:00",
     "status": "draft",
-    "caption": "Arriendo, servicios, internet, la mesada de tu hijo… Lo que se repite cada mes puedes programarlo una sola vez en Collecta y la app te avisa cuando toca pagar. Sirve para gastos compartidos o solo para los tuyos. 🔁\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "Arriendo, servicios, internet, la mesada de tu hijo… Lo que se repite cada mes puedes programarlo una sola vez en Collecta y la app te avisa cuando toca pagar. Sirve para gastos compartidos o solo para los tuyos. 🔁\n👉 Es una función Plus: adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -403,7 +402,7 @@
   {
     "id": "S11",
     "type": "story",
-    "title": "Story · Gastos automáticos · premium",
+    "title": "Story · Gastos automáticos · Plus",
     "files": [
       "story-automaticos"
     ],
@@ -415,7 +414,7 @@
   {
     "id": "S12",
     "type": "story",
-    "title": "Story · Metas de ahorro · premium",
+    "title": "Story · Metas de ahorro · Plus",
     "files": [
       "story-metas"
     ],
@@ -437,7 +436,7 @@
     ],
     "when": "2026-11-27T19:00:00-05:00",
     "status": "draft",
-    "caption": "¿Quieren ahorrar juntos para el viaje de fin de año? Ponle nombre y monto a la meta, y mira cuánto ha aportado cada quien y cuánto falta. La app avisa cuando hay un aporte pendiente. 🎯\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "¿Quieren ahorrar juntos para el viaje de fin de año? Ponle nombre y monto a la meta, y mira cuánto ha aportado cada quien y cuánto falta. La app avisa cuando hay un aporte pendiente. 🎯\n👉 Es una función Plus: adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -455,7 +454,7 @@
     ],
     "when": "2026-11-28T11:00:00-05:00",
     "status": "draft",
-    "caption": "Antes: «¿cuánto llevamos ahorrado?» y nadie sabía. Con las metas de ahorro de Collecta: cada aporte a la vista y nadie se queda sin aportar. 💰\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "Antes: «¿cuánto llevamos ahorrado?» y nadie sabía. Con las metas de ahorro de Collecta: cada aporte a la vista y nadie se queda sin aportar. 💰\n👉 Es una función Plus: adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#MetasDeAhorro",
@@ -465,18 +464,70 @@
     ]
   },
   {
+    "id": "P22",
+    "type": "carousel",
+    "title": "Préstamos en cuotas · Plus",
+    "files": [
+      "pre-1",
+      "pre-2",
+      "pre-3",
+      "pre-4",
+      "pre-5"
+    ],
+    "when": "2026-11-30T20:00:00-05:00",
+    "status": "draft",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "caption": "¿Le prestaste plata a un amigo y ya nadie se acuerda de cuántas cuotas faltan? 😅\nCon los préstamos en cuotas de Collecta defines quién debe, cuánto y en cuántas cuotas. Cada cuota se paga con comprobante y la confirma quien recibe, y siempre ves cuántas van pagadas.\nCollecta no mueve el dinero: cada quien paga por su banco.\n👉 Es una función Plus: adquiérela desde la app."
+  },
+  {
+    "id": "S13",
+    "type": "story",
+    "title": "Story · Préstamos en cuotas · Plus",
+    "files": [
+      "story-prestamos"
+    ],
+    "when": "2026-12-01T18:00:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
     "id": "P04",
     "type": "carousel",
-    "title": "Escáner con IA · premium",
+    "title": "Escáner con IA · Plus",
     "files": [
       "escaner-portada",
       "que-hacemos",
       "como-funciona",
       "convocatoria"
     ],
-    "when": "2026-11-30T20:00:00-05:00",
+    "when": "2026-12-02T12:00:00-05:00",
     "status": "draft",
-    "caption": "Tómale una foto al recibo del restaurante: la IA de Collecta lee cada producto y cada precio, y tú solo eliges quién consumió qué. Se acabó digitar la cuenta ítem por ítem. 📸\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "Tómale una foto al recibo del restaurante: la IA de Collecta lee cada producto y cada precio, y tú solo eliges quién consumió qué. Se acabó digitar la cuenta ítem por ítem. 📸\n👉 Es una función Plus: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ]
+  },
+  {
+    "id": "S2",
+    "type": "story",
+    "title": "Story escáner",
+    "files": [
+      "story-escaner"
+    ],
+    "when": "2026-12-03T18:00:00-05:00",
+    "status": "draft",
+    "caption": "Escanea la factura: la IA lee cada producto y precio. Función Plus.\n👉 Adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -498,32 +549,14 @@
       "esc-6",
       "esc-7"
     ],
-    "when": "2026-12-02T12:00:00-05:00",
+    "when": "2026-12-04T19:00:00-05:00",
     "status": "draft",
-    "caption": "Así funciona el escáner con IA de Collecta, paso a paso: fotografías el recibo, la IA identifica los productos, los asignas a cada persona y la cuenta queda repartida con propina incluida. 🍽️\n👉 Es una función premium: adquiérela desde la app.",
+    "caption": "Así funciona el escáner con IA de Collecta, paso a paso: fotografías el recibo, la IA identifica los productos, los asignas a cada persona y la cuenta queda repartida con propina incluida. 🍽️\n👉 Es una función Plus: adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#EscanerDeRecibos",
       "#GastosCompartidos",
       "#CuentasClaras",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "S2",
-    "type": "story",
-    "title": "Story escáner",
-    "files": [
-      "story-escaner"
-    ],
-    "when": "2026-12-03T18:00:00-05:00",
-    "status": "draft",
-    "caption": "Escanea la factura: la IA lee cada producto y precio. Función premium.\n👉 Adquiérela desde la app.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
       "#Colombia"
     ]
   },
@@ -534,27 +567,9 @@
     "files": [
       "antes-despues"
     ],
-    "when": "2026-12-04T19:00:00-05:00",
-    "status": "draft",
-    "caption": "Antes: chats eternos y cuentas en la cabeza. Con Collecta: todo claro en un solo lugar y cada quien sabe cuánto debe. ✨\nEmpieza gratis y súmate a la beta.\nPruébalo gratis: collecta-xi.vercel.app",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
-    "id": "P12",
-    "type": "post",
-    "title": "Las cuentas claras",
-    "files": [
-      "refran"
-    ],
     "when": "2026-12-05T11:00:00-05:00",
     "status": "draft",
-    "caption": "Cuentas claras y chocolate espeso, dice el refrán. Con Collecta lo hacemos app. 🍫\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "caption": "Antes: chats eternos y cuentas en la cabeza. Con Collecta: todo claro en un solo lugar y cada quien sabe cuánto debe. ✨\nEmpieza gratis y súmate a la beta.\nPruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
