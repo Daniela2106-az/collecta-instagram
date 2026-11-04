@@ -24,6 +24,14 @@ const api = (p) => `${GRAPH_BASE}/${GRAPH_VERSION}/${p}`;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const readJson = (f, d) => (fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : d);
 
+// Etiquetas (@usuarios) opcionales: campo "tags": ["usuario1", "usuario2"] en schedule.json
+function userTags(p, x, y) {
+  const t = (p.tags || []).map((u) => String(u).replace(/^@/, '').trim()).filter(Boolean);
+  if (!t.length) return {};
+  const arr = t.map((username, i) => ({ username, x: Math.min(0.9, Math.max(0.1, x + (i - (t.length - 1) / 2) * 0.3)), y }));
+  return { user_tags: JSON.stringify(arr) };
+}
+
 async function call(method, path, params = {}) {
   const url = new URL(api(path));
   const opts = { method };
@@ -74,9 +82,9 @@ async function publishOne(p, me) {
 
   let creation;
   if (p.type === 'post') {
-    creation = (await call('POST', `${me}/media`, { image_url: files[0], caption: fullCaption(p) })).id;
+    creation = (await call('POST', `${me}/media`, { image_url: files[0], caption: fullCaption(p), ...userTags(p, 0.5, 0.5) })).id;
   } else if (p.type === 'story') {
-    creation = (await call('POST', `${me}/media`, { image_url: files[0], media_type: 'STORIES' })).id;
+    creation = (await call('POST', `${me}/media`, { image_url: files[0], media_type: 'STORIES', ...userTags(p, 0.5, 0.93) })).id;
   } else if (p.type === 'carousel') {
     if (files.length < 2 || files.length > 20) throw new Error('Un carrusel necesita entre 2 y 20 imágenes');
     const kids = [];
