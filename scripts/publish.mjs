@@ -83,6 +83,18 @@ async function checkVideo(url) {
   if (!/mp4|octet-stream|video/.test(type)) throw new Error(`Instagram necesita MP4; recibí "${type}": ${url}`);
 }
 
+// Crea el contenedor con etiquetas; si Instagram las rechaza, reintenta sin ellas (mejor publicar sin etiqueta que no publicar).
+async function createContainer(me, params, p, x, y) {
+  const tags = userTags(p, x, y);
+  if (!Object.keys(tags).length) return (await call('POST', `${me}/media`, params)).id;
+  try {
+    return (await call('POST', `${me}/media`, { ...params, ...tags })).id;
+  } catch (e) {
+    console.warn(`⚠ ${p.id}: Instagram rechazó las etiquetas (${e.message}). Publico sin etiquetas.`);
+    return (await call('POST', `${me}/media`, params)).id;
+  }
+}
+
 async function publishOne(p, me) {
   if (p.video) {
     // Pieza animada: media/<ID>/1.mp4 (H.264 + AAC). Un post en video se publica como Reel (también aparece en el perfil).
@@ -90,9 +102,9 @@ async function publishOne(p, me) {
     await checkVideo(v);
     if (DRY_RUN) { console.log(`[dry-run] ${p.id} (${p.type}, video) OK: MP4 público`); return null; }
     const params = p.type === 'story'
-      ? { media_type: 'STORIES', video_url: v, ...userTags(p, 0.5, 0.93) }
+      ? { media_type: 'STORIES', video_url: v }
       : { media_type: 'REELS', video_url: v, caption: fullCaption(p), share_to_feed: 'true' };
-    const c = (await call('POST', `${me}/media`, params)).id;
+    const c = await createContainer(me, params, p, 0.5, p.type === 'story' ? 0.93 : 0.5);
     await waitReady(c, 120);
     const pubv = await call('POST', `${me}/media_publish`, { creation_id: c });
     let permalink = '';
@@ -105,9 +117,9 @@ async function publishOne(p, me) {
 
   let creation;
   if (p.type === 'post') {
-    creation = (await call('POST', `${me}/media`, { image_url: files[0], caption: fullCaption(p), ...userTags(p, 0.5, 0.5) })).id;
+    creation = await createContainer(me, { image_url: files[0], caption: fullCaption(p) }, p, 0.5, 0.5);
   } else if (p.type === 'story') {
-    creation = (await call('POST', `${me}/media`, { image_url: files[0], media_type: 'STORIES', ...userTags(p, 0.5, 0.93) })).id;
+    creation = await createContainer(me, { image_url: files[0], media_type: 'STORIES' }, p, 0.5, 0.93);
   } else if (p.type === 'carousel') {
     if (files.length < 2 || files.length > 20) throw new Error('Un carrusel necesita entre 2 y 20 imágenes');
     const kids = [];
