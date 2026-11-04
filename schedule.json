@@ -108,6 +108,18 @@
     "hashtags": []
   },
   {
+    "id": "S17",
+    "type": "story",
+    "title": "Story · Startup Day (apúrate)",
+    "files": [
+      "story-apurate"
+    ],
+    "when": "2026-11-05T13:30:00-05:00",
+    "status": "draft",
+    "caption": "",
+    "hashtags": []
+  },
+  {
     "id": "S4",
     "type": "story",
     "title": "Story síguenos",
