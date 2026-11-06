@@ -197,6 +197,26 @@
     ]
   },
   {
+    "id": "P24",
+    "type": "post",
+    "title": "Reel · Collecta en 50 segundos",
+    "files": [
+      "reel-collecta-vertical"
+    ],
+    "when": "2026-11-07T14:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Quién pagó qué y quién le debe a quién? Con Collecta lo tienes claro. 💙\nCrea tu grupo, anota cada gasto y divídelo como quieran: partes iguales, montos exactos, por ítem o por noches. Cada quien paga por su banco y quien recibe confirma.\nY con Plus: escáner de recibos con IA, metas de ahorro y gastos que se crean solos. Adquiérela desde la app.\nPruébala gratis 👉 https://collecta-xi.vercel.app (link en la bio)",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#DividirGastos",
+      "#CuentasClaras",
+      "#ViajesConAmigos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
     "id": "S7",
     "type": "story",
     "title": "Story · Pregunta a la comunidad",
