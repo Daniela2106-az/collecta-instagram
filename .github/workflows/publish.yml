@@ -1,7 +1,7 @@
 name: Publicar en Instagram
 on:
   schedule:
-    - cron: '*/15 * * * *'      # cada 15 min revisa si hay algo vencido (GitHub puede tardar unos minutos)
+    - cron: '7 * * * *'      # una vez por hora (minuto 7) revisa si hay algo vencido; baja la actividad automática por la restricción de Meta (6 nov 2026)
   workflow_dispatch:
     inputs:
       only:
