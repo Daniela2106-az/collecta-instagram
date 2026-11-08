@@ -95,7 +95,7 @@
       "story-presentacion"
     ],
     "when": "2026-11-04T18:00:00-05:00",
-    "status": "draft",
+    "status": "approved",
     "caption": "Hola, somos Collecta. Finanzas compartidas, cuentas claras.\n👉 Síguenos.",
     "hashtags": [
       "#Collecta",
@@ -138,24 +138,6 @@
     ]
   },
   {
-    "id": "S4",
-    "type": "story",
-    "title": "Story síguenos",
-    "files": [
-      "story-sigue"
-    ],
-    "when": "2026-11-06T12:00:00-05:00",
-    "status": "draft",
-    "caption": "Finanzas compartidas, cuentas claras.\n👉 Síguenos para no perderte nada.",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
-    ]
-  },
-  {
     "id": "P20",
     "type": "post",
     "title": "Quiénes somos",
@@ -185,8 +167,8 @@
       "carrusel-5-ya-pagaron",
       "carrusel-6-cierre"
     ],
-    "when": "2026-11-07T11:00:00-05:00",
-    "status": "draft",
+    "when": "2026-11-09T12:00:00-05:00",
+    "status": "approved",
     "caption": "¿Te ha pasado? Alguien paga la cuenta, otro «te la debo», y a las dos semanas nadie se acuerda de cuánto era. Los planes en grupo no se dañan por el plan, sino por las cuentas. 😅\nEso es lo que estamos resolviendo en Collecta: que todos vean lo mismo y cada quien sepa cuánto debe.\nDesliza y cuéntanos en comentarios cuál te ha tocado a ti. 👇",
     "hashtags": [
       "#Collecta",
@@ -217,27 +199,15 @@
     "video": true
   },
   {
-    "id": "S7",
-    "type": "story",
-    "title": "Story · Pregunta a la comunidad",
-    "files": [
-      "story-pregunta"
-    ],
-    "when": "2026-11-07T18:00:00-05:00",
-    "status": "draft",
-    "caption": "",
-    "hashtags": []
-  },
-  {
     "id": "P16",
     "type": "post",
     "title": "Así se ve un viaje",
     "files": [
       "asi-se-ve-un-viaje"
     ],
-    "when": "2026-11-09T20:00:00-05:00",
-    "status": "draft",
-    "caption": "Así se ve un grupo en Collecta: cada gasto, cada aporte y cuánto le debe cada quien a quién, todo en un solo lugar, sin chats eternos ni cuentas en la cabeza. ✈️\nDesliza para ver cómo se lee una cuenta de viaje.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "when": "2026-11-22T11:00:00-05:00",
+    "status": "approved",
+    "caption": "Así se ve un grupo en Collecta: cada gasto, cada aporte y cuánto le debe cada quien a quién, todo en un solo lugar, sin chats eternos ni cuentas en la cabeza. ✈️\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
@@ -254,7 +224,7 @@
       "story-pasos"
     ],
     "when": "2026-11-10T18:00:00-05:00",
-    "status": "draft",
+    "status": "approved",
     "caption": "",
     "hashtags": []
   },
@@ -271,7 +241,7 @@
       "pasos-6"
     ],
     "when": "2026-11-11T12:00:00-05:00",
-    "status": "draft",
+    "status": "approved",
     "caption": "Así de fácil es empezar con Collecta, en 4 pasos:\n1️⃣ Crea el grupo (el viaje, la casa o el parche)\n2️⃣ Añade a tus amigos\n3️⃣ Crea los gastos y reparte como prefieras\n4️⃣ Cada quien paga por su banco, sube el comprobante y quien recibe confirma ✅\nTodo en un solo lugar y sin chats eternos.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
@@ -289,7 +259,7 @@
       "story-grupo"
     ],
     "when": "2026-11-12T18:00:00-05:00",
-    "status": "draft",
+    "status": "approved",
     "caption": "",
     "hashtags": []
   },
@@ -301,7 +271,7 @@
       "partes-desiguales"
     ],
     "when": "2026-11-13T19:00:00-05:00",
-    "status": "draft",
+    "status": "needs_review",
     "caption": "No todos piden lo mismo, y dividir en partes iguales no siempre es justo. El que pidió ensalada no debería pagar los tragos de los demás. 🍹\nEn Collecta puedes dividir como de verdad se consumió. En la siguiente publicación te mostramos las 4 formas.\nSíguenos para no perdértelas.",
     "hashtags": [
       "#Collecta",
@@ -309,7 +279,8 @@
       "#CuentasClaras",
       "#GastosCompartidos",
       "#Colombia"
-    ]
+    ],
+    "review": "Daniela: este post solo no se entiende; necesita más láminas (carrusel) que lo acompañen. Además se parece a la serie «Antes y con Collecta»."
   },
   {
     "id": "P05",
@@ -324,7 +295,7 @@
       "div-6"
     ],
     "when": "2026-11-14T11:00:00-05:00",
-    "status": "draft",
+    "status": "approved",
     "caption": "En Collecta eliges cómo dividir cada gasto:\n1️⃣ En partes iguales\n2️⃣ Por montos exactos\n3️⃣ Por ítem, cada uno paga lo que pidió, con propina incluida\n4️⃣ Por noches, ideal si se quedan en un hotel o una cabaña y no todos llegan el mismo día.\nEs gratis en la beta, pruébalo con tu próximo plan. Pruébalo gratis: collecta-xi.vercel.app",
     "hashtags": [
       "#Collecta",
@@ -342,7 +313,7 @@
       "story-dividir"
     ],
     "when": "2026-11-14T18:00:00-05:00",
-    "status": "draft",
+    "status": "approved",
     "caption": "",
     "hashtags": []
   },
