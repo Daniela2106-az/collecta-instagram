@@ -156,6 +156,26 @@
     ]
   },
   {
+    "id": "P24",
+    "type": "post",
+    "title": "Reel · Collecta en 50 segundos",
+    "files": [
+      "reel-collecta-vertical"
+    ],
+    "when": "2026-11-07T14:00:00-05:00",
+    "status": "approved",
+    "caption": "¿Quién pagó qué y quién le debe a quién? Con Collecta lo tienes claro. 💙\nCrea tu grupo, anota cada gasto y divídelo como quieran: partes iguales, montos exactos, por ítem o por noches. Cada quien paga por su banco y quien recibe confirma.\nY con Plus: escáner de recibos con IA, metas de ahorro y gastos que se crean solos. Adquiérela desde la app.\nPruébala gratis 👉 https://collecta-xi.vercel.app (link en la bio)",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#DividirGastos",
+      "#CuentasClaras",
+      "#ViajesConAmigos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
     "id": "P03",
     "type": "carousel",
     "title": "Los dolores de cabeza",
@@ -177,26 +197,6 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
-  },
-  {
-    "id": "P24",
-    "type": "post",
-    "title": "Reel · Collecta en 50 segundos",
-    "files": [
-      "reel-collecta-vertical"
-    ],
-    "when": "2026-11-07T14:00:00-05:00",
-    "status": "approved",
-    "caption": "¿Quién pagó qué y quién le debe a quién? Con Collecta lo tienes claro. 💙\nCrea tu grupo, anota cada gasto y divídelo como quieran: partes iguales, montos exactos, por ítem o por noches. Cada quien paga por su banco y quien recibe confirma.\nY con Plus: escáner de recibos con IA, metas de ahorro y gastos que se crean solos. Adquiérela desde la app.\nPruébala gratis 👉 https://collecta-xi.vercel.app (link en la bio)",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#DividirGastos",
-      "#CuentasClaras",
-      "#ViajesConAmigos",
-      "#Colombia"
-    ],
-    "video": true
   },
   {
     "id": "S5",
@@ -304,6 +304,25 @@
     "hashtags": []
   },
   {
+    "id": "R03",
+    "type": "post",
+    "title": "Reel · Los dolores de cabeza",
+    "files": [
+      "reel-r03"
+    ],
+    "when": "2026-11-15T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Te ha pasado? Alguien paga la cuenta, otro «te la debo», y a las dos semanas nadie se acuerda de cuánto era. Los planes en grupo no se dañan por el plan, sino por las cuentas. 😅\nEso es lo que estamos resolviendo en Collecta: que todos vean lo mismo y cada quien sepa cuánto debe.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
     "id": "S9",
     "type": "story",
     "title": "Story · Antes y con Collecta",
@@ -332,6 +351,25 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
+  },
+  {
+    "id": "R21",
+    "type": "post",
+    "title": "Reel · Empieza en 4 pasos",
+    "files": [
+      "reel-r21"
+    ],
+    "when": "2026-11-17T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Así quedan las cuentas claras en Collecta, en 4 pasos:\n1️⃣ Anota el gasto\n2️⃣ Elige cómo dividirlo: iguales, montos, por ítem o por noches\n3️⃣ Mira quién le debe a quién\n4️⃣ Cada quien paga por su banco y quien recibe confirma ✅\nTodo en un solo lugar y sin chats eternos.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
   },
   {
     "id": "P08",
@@ -368,6 +406,26 @@
     "hashtags": []
   },
   {
+    "id": "R11",
+    "type": "post",
+    "title": "Reel · No todos consumen igual",
+    "files": [
+      "reel-r11"
+    ],
+    "when": "2026-11-19T19:00:00-05:00",
+    "status": "draft",
+    "caption": "En una cena de $141.000 dividida en partes iguales, Luis pagó $9.000 de más por algo que no pidió. 😕\nEn Collecta cada quien paga lo que consumió: eliges «Por ítem» y tocas quién pidió qué.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#DividirLaCuenta"
+    ],
+    "video": true
+  },
+  {
     "id": "P17",
     "type": "post",
     "title": "Antes y con Collecta · Pagos",
@@ -384,6 +442,26 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
+  },
+  {
+    "id": "R05",
+    "type": "post",
+    "title": "Reel · 4 formas de dividir",
+    "files": [
+      "reel-r05"
+    ],
+    "when": "2026-11-21T19:00:00-05:00",
+    "status": "draft",
+    "caption": "En Collecta eliges cómo dividir cada gasto:\n1️⃣ En partes iguales\n2️⃣ Por montos exactos\n3️⃣ Por ítem, con propina incluida\n4️⃣ Por noches, ideal para la cabaña o el hotel\nEs gratis en la beta. 👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#DividirLaCuenta"
+    ],
+    "video": true
   },
   {
     "id": "P14",
@@ -404,6 +482,25 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
+  },
+  {
+    "id": "R08",
+    "type": "post",
+    "title": "Reel · Pagos y confirmación",
+    "files": [
+      "reel-r08"
+    ],
+    "when": "2026-11-23T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Se acabó el «¿ya me pagaste?». 🙌 Cada quien copia la llave, paga desde su banco y sube la foto del comprobante. A quien recibe le llega el aviso y confirma.\nCollecta no guarda ni mueve tu dinero: solo lleva las cuentas claras.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
   },
   {
     "id": "S3",
@@ -458,6 +555,26 @@
     "hashtags": []
   },
   {
+    "id": "R14",
+    "type": "post",
+    "title": "Reel · Tu viaje, cuentas claras",
+    "files": [
+      "reel-r14"
+    ],
+    "when": "2026-11-26T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Armar el viaje es fácil; saber quién pagó qué, no tanto. ✈️\nCreas el grupo del viaje, tus amigos se unen con un link, anotan cada gasto con su comprobante y todos ven quién le debe a quién.\nCollecta no guarda ni mueve tu dinero: cada quien paga por su banco y quien recibe confirma. 🔒\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#Viajes"
+    ],
+    "video": true
+  },
+  {
     "id": "S12",
     "type": "story",
     "title": "Story · Metas de ahorro · Plus",
@@ -510,6 +627,26 @@
     ]
   },
   {
+    "id": "R06",
+    "type": "post",
+    "title": "Reel · Gastos automáticos · Plus",
+    "files": [
+      "reel-r06"
+    ],
+    "when": "2026-11-29T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Arriendo, servicios, suscripciones, la mesada… Lo que se repite lo programas una sola vez: cada mes el gasto nace solo, ya repartido, y la app le recuerda a cada quien cuánto le toca. 🔔\nSirve para gastos compartidos o solo para los tuyos.\n👉 Es una función Plus: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#Roomies"
+    ],
+    "video": true
+  },
+  {
     "id": "P22",
     "type": "carousel",
     "title": "Préstamos en cuotas · Plus",
@@ -542,6 +679,26 @@
     "status": "draft",
     "caption": "",
     "hashtags": []
+  },
+  {
+    "id": "R07",
+    "type": "post",
+    "title": "Reel · Metas de ahorro · Plus",
+    "files": [
+      "reel-r07"
+    ],
+    "when": "2026-12-01T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Ahorrar juntos para el viaje de fin de año? 🎯 Ponle nombre y monto a la meta, miren cuánto llevan y cuánto ha puesto cada quien. La app avisa cuando hay un aporte pendiente.\n👉 Es una función Plus: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#Ahorro"
+    ],
+    "video": true
   },
   {
     "id": "P04",
@@ -581,6 +738,25 @@
       "#GastosCompartidos",
       "#Colombia"
     ]
+  },
+  {
+    "id": "R22",
+    "type": "post",
+    "title": "Reel · Préstamos en cuotas · Plus",
+    "files": [
+      "reel-r22"
+    ],
+    "when": "2026-12-03T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Le prestaste plata a un amigo y ya nadie se acuerda de cuántas cuotas faltan? 😅\nDefines cuánto y en cuántas cuotas, cada cuota se paga con comprobante y la confirma quien recibe. Siempre ves cuántas van pagadas, sin intereses ni recargos.\nCollecta no mueve el dinero: cada quien paga por su banco.\n👉 Es una función Plus: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
   },
   {
     "id": "P09",
@@ -625,6 +801,46 @@
     ]
   },
   {
+    "id": "R04",
+    "type": "post",
+    "title": "Reel · Escáner con IA · Plus",
+    "files": [
+      "reel-r04"
+    ],
+    "when": "2026-12-06T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Tómale una foto al recibo: la IA de Collecta lee cada producto, cada precio y la propina, y tú solo eliges quién consumió qué. Se acabó digitar la cuenta ítem por ítem. 📸\n👉 Es una función Plus: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#IA"
+    ],
+    "video": true
+  },
+  {
+    "id": "R09",
+    "type": "post",
+    "title": "Reel · Escáner paso a paso · Plus",
+    "files": [
+      "reel-r09"
+    ],
+    "when": "2026-12-08T19:00:00-05:00",
+    "status": "draft",
+    "caption": "El escáner con IA, paso a paso: fotografías el recibo, la IA lee los productos y la propina, tocas quién pidió qué y la cuenta queda repartida, propina incluida. 🍽️\n👉 Es una función Plus: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#IA"
+    ],
+    "video": true
+  },
+  {
     "id": "P25",
     "type": "carousel",
     "title": "Escáner con IA en 3 situaciones · Plus",
@@ -646,40 +862,22 @@
     ]
   },
   {
-    "id": "R03",
+    "id": "R25",
     "type": "post",
-    "title": "Reel · Los dolores de cabeza",
+    "title": "Reel · Escáner en 3 situaciones · Plus",
     "files": [
-      "reel-r03"
+      "reel-r25"
     ],
-    "when": "2026-11-15T19:00:00-05:00",
+    "when": "2026-12-11T19:00:00-05:00",
     "status": "draft",
-    "caption": "¿Te ha pasado? Alguien paga la cuenta, otro «te la debo», y a las dos semanas nadie se acuerda de cuánto era. Los planes en grupo no se dañan por el plan, sino por las cuentas. 😅\nEso es lo que estamos resolviendo en Collecta: que todos vean lo mismo y cada quien sepa cuánto debe.",
+    "caption": "Tres cuentas, una sola foto. 📸 El recibo del restaurante, la captura de un taxi o una factura electrónica: la IA de Collecta lee ítems, propina y total. Tú solo eliges quién consumió qué.\n👉 Es una función Plus: adquiérela desde la app.",
     "hashtags": [
       "#Collecta",
       "#FinanzasCompartidas",
       "#CuentasClaras",
       "#GastosCompartidos",
-      "#Colombia"
-    ],
-    "video": true
-  },
-  {
-    "id": "R21",
-    "type": "post",
-    "title": "Reel · Empieza en 4 pasos",
-    "files": [
-      "reel-r21"
-    ],
-    "when": "2026-11-17T19:00:00-05:00",
-    "status": "draft",
-    "caption": "Así de fácil es empezar con Collecta, en 4 pasos:\n1️⃣ Crea el grupo (el viaje, la casa o el parche)\n2️⃣ Añade a tus amigos\n3️⃣ Crea los gastos y reparte como prefieras\n4️⃣ Cada quien paga por su banco, sube el comprobante y quien recibe confirma ✅\nTodo en un solo lugar y sin chats eternos.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
-    "hashtags": [
-      "#Collecta",
-      "#FinanzasCompartidas",
-      "#CuentasClaras",
-      "#GastosCompartidos",
-      "#Colombia"
+      "#Colombia",
+      "#IA"
     ],
     "video": true
   }
