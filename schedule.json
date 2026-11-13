@@ -976,5 +976,121 @@
       "#Roomies"
     ],
     "video": true
+  },
+  {
+    "id": "R18",
+    "type": "post",
+    "title": "Reel · Antes y con Collecta · Dividir",
+    "files": [
+      "reel-r18"
+    ],
+    "when": "2026-12-23T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Antes: la calculadora, el «yo ni pedí postre» y media hora para repartir la cuenta. Con Collecta: eliges la forma de dividir, la propina se reparte y cada quien ve lo que le toca. 🧾\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
+    "id": "R17",
+    "type": "post",
+    "title": "Reel · Antes y con Collecta · Pagos",
+    "files": [
+      "reel-r17"
+    ],
+    "when": "2026-12-26T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Antes: «ya te pagué, créeme». Con Collecta: copias la llave, pagas por tu banco, subes el comprobante y quien recibe confirma. Todo queda registrado y nadie tiene que pedirle pruebas a un amigo. 🤝\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
+    "id": "R19",
+    "type": "post",
+    "title": "Reel · Antes y con Collecta · Ahorro · Plus",
+    "files": [
+      "reel-r19"
+    ],
+    "when": "2026-12-28T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Antes: «¿cuánto llevamos ahorrado?» y nadie sabía. Con las metas de ahorro de Collecta: el anillo de la meta, cada aporte a la vista y avisos para que nadie se quede sin aportar. 💰\n👉 Es una función Plus: adquiérela desde la app.",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#Ahorro"
+    ],
+    "video": true
+  },
+  {
+    "id": "R10",
+    "type": "post",
+    "title": "Reel · Antes y con Collecta",
+    "files": [
+      "reel-r10"
+    ],
+    "when": "2026-12-30T19:00:00-05:00",
+    "status": "draft",
+    "caption": "Antes: chats eternos y cuentas en la cabeza. Con Collecta: tu balance y quién le debe a quién, todo claro en un solo lugar. ✨\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
+    "id": "R35",
+    "type": "post",
+    "title": "Reel · Club o equipo",
+    "files": [
+      "reel-r35"
+    ],
+    "when": "2027-01-02T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Eres el tesorero del equipo? ⚽ Crea el grupo con la plantilla Club / Equipo, reparte la cancha entre todos y mira quién falta por pagar sin preguntar. La app les recuerda por ti.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#Futbol"
+    ],
+    "video": true
+  },
+  {
+    "id": "R36",
+    "type": "post",
+    "title": "Reel · Collecta cobra por ti",
+    "files": [
+      "reel-r36"
+    ],
+    "when": "2027-01-04T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Odias cobrarle a tus amigos? 😬 Collecta avisa a tiempo a cada quien: lo que vence mañana, lo que está pendiente y las cuotas. Y cuando te pagan, tú confirmas. 🔔\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
   }
 ]
