@@ -880,5 +880,101 @@
       "#IA"
     ],
     "video": true
+  },
+  {
+    "id": "R30",
+    "type": "post",
+    "title": "Reel · Cobra sin pena",
+    "files": [
+      "reel-r30"
+    ],
+    "when": "2026-12-13T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Te da pena cobrar? 🙈 Con Collecta eliges a quién, cuánto y por qué, y a cada uno le llega una solicitud de pago. Quien debe ve el valor y el motivo; tus demás amigos no.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
+    "id": "R31",
+    "type": "post",
+    "title": "Reel · Tu nivel de pago",
+    "files": [
+      "reel-r31"
+    ],
+    "when": "2026-12-15T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Eres de los que paga rápido? ⚡ En Collecta tu nivel sube cada vez que pagas a tiempo: Nuevo, Cumplido, Paga rápido y Ejemplar. Solo cuentan los pagos confirmados por quien los recibió, y tus cifras solo las ves tú. 🔒\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
+    "id": "R32",
+    "type": "post",
+    "title": "Reel · Tu gasto del mes",
+    "files": [
+      "reel-r32"
+    ],
+    "when": "2026-12-17T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿En qué se te va la plata? 💸 Collecta suma tu parte de cada gasto de tus grupos y te muestra tu gasto del mes, mes a mes y por categoría.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
+    "id": "R33",
+    "type": "post",
+    "title": "Reel · Cruce de cuentas",
+    "files": [
+      "reel-r33"
+    ],
+    "when": "2026-12-19T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Tú le debes a Ana y Ana te debe a ti? 🤯 Con el cruce de cuentas se restan las deudas entre ustedes y solo paga la diferencia. Nada se cruza hasta que la otra persona acepte.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia"
+    ],
+    "video": true
+  },
+  {
+    "id": "R34",
+    "type": "post",
+    "title": "Reel · Roomies sin peleas",
+    "files": [
+      "reel-r34"
+    ],
+    "when": "2026-12-21T19:00:00-05:00",
+    "status": "draft",
+    "caption": "¿Vives con roomies? 🏠 Crea el grupo de la casa con la plantilla Roomies, anota arriendo, servicios e internet, y cada cobro queda repartido. Al final del mes todos ven quién le debe a quién.\n👉 Pruébalo gratis: collecta-xi.vercel.app",
+    "hashtags": [
+      "#Collecta",
+      "#FinanzasCompartidas",
+      "#CuentasClaras",
+      "#GastosCompartidos",
+      "#Colombia",
+      "#Roomies"
+    ],
+    "video": true
   }
 ]
